@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on McDonald's<br>🤝 I’m looking for help with coding and Find A job<br>🌱 I’m currently learning Software engineering<br>💬 Ask me about Coding and My repositories
+🔭 I’m currently working At McDonald's<br>🤝 I’m looking for help with coding and Finding A job<br>🌱 I’m currently learning Software engineering<br>💬 Ask me about Coding and My repositories
 
 
 ## 🌐 Socials:
