@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React , React native**
 
-- 📫 How to reach me **Hasantayar1602@gmail.com**
+- 📫 How to reach me **admin@QuantumPinnacleMatrix.techm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
